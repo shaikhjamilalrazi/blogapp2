@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     // Set the custom build directory name to "build"
-    distDir: "build",
+    // distDir: "build",
 
     async headers() {
         return [
