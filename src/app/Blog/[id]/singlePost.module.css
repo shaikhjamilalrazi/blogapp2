@@ -1,0 +1,18 @@
+.container {
+    padding: 50px;
+}
+
+.postTitle {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.postContent {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.postDate {
+    color: #666;
+}
